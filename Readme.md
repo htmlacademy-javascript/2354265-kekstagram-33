@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Mikhail Poylov](https://up.htmlacademy.ru/javascript/33/user/2354265).
-* Наставник: `Неизвестно`.
+* Наставник: `Виктория Никитина`. (https://htmlacademy.ru/profile/id1217273)
 
 ---
 
